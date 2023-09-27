@@ -1,0 +1,1 @@
+# payraos-browser-config
